@@ -3,7 +3,7 @@
   <entry>
     <title>070701vscode常用快捷键</title>
     <url>/zhushuwen1992.github.io/2020/01/26/070701%20vscode%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
-    <content><![CDATA[<h1><span id="vscode-chang-yong-kuai-jie-jian-zong-jie">vscode 常用快捷键总结</span><a href="#vscode-chang-yong-kuai-jie-jian-zong-jie" class="header-anchor">#</a></h1><h2><span id="yi-zhu-ming-ling-kuang">一、主命令框</span><a href="#yi-zhu-ming-ling-kuang" class="header-anchor">#</a></h2><p><strong>F1</strong>或<strong>Ctrl+Shift+P</strong>（俗称万能键）：打开命令面板。在打开的输入框内，可以输入任何命令。</p>
+    <content><![CDATA[<h2><span id="yi-zhu-ming-ling-kuang">一、主命令框</span><a href="#yi-zhu-ming-ling-kuang" class="header-anchor">#</a></h2><p><strong>F1</strong>或<strong>Ctrl+Shift+P</strong>（俗称万能键）：打开命令面板。在打开的输入框内，可以输入任何命令。</p>
 <h2><span id="er-chang-yong-kuai-jie-jian">二、常用快捷键</span><a href="#er-chang-yong-kuai-jie-jian" class="header-anchor">#</a></h2><h3><span id="1-bian-ji-qi-yu-chuang-kou-guan-li">1、编辑器与窗口管理</span><a href="#1-bian-ji-qi-yu-chuang-kou-guan-li" class="header-anchor">#</a></h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">新建文件：Ctrl+N</span></pre></td></tr><tr><td class="code"><pre><span class="line">文件之间切换：Ctrl+Tab</span></pre></td></tr><tr><td class="code"><pre><span class="line">打开一个新的VScode编辑器：Ctrl+Shift+N</span></pre></td></tr><tr><td class="code"><pre><span class="line">关闭当前窗口：Ctrl+Tab</span></pre></td></tr><tr><td class="code"><pre><span class="line">切出一个新的编辑窗口（最多3个）：Ctrl+\</span></pre></td></tr><tr><td class="code"><pre><span class="line">切换左中右3个编辑器窗口的快捷键：Ctrl+1  Ctrl+2  Ctrl+3</span></pre></td></tr></table></figure>
 <h3><span id="2-dai-ma-bian-ji">2、代码编辑</span><a href="#2-dai-ma-bian-ji" class="header-anchor">#</a></h3><h4><span id="1-ge-shi-diao-zheng">（1）格式调整</span><a href="#1-ge-shi-diao-zheng" class="header-anchor">#</a></h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">代码行向左或向右缩进：Ctrl+[、Ctrl+]</span></pre></td></tr><tr><td class="code"><pre><span class="line">复制或剪切当前行&#x2F;当前选中内容：Ctrl+C、Ctrl+V</span></pre></td></tr><tr><td class="code"><pre><span class="line">代码格式化：Shift+ALt+F</span></pre></td></tr><tr><td class="code"><pre><span class="line">向上或向下移动一行：Alt+Up、Alt+Down</span></pre></td></tr><tr><td class="code"><pre><span class="line">向上或向下复制一行：Shift+Alt+Up、Shift+Alt+Down</span></pre></td></tr><tr><td class="code"><pre><span class="line">在当前行下方插入一行：Ctrl+Enter</span></pre></td></tr><tr><td class="code"><pre><span class="line">在当前行上方插入一行：Ctrl+Shift+Enter</span></pre></td></tr></table></figure>
 <h4><span id="2-guang-biao-xiang-guan">（2）光标相关</span><a href="#2-guang-biao-xiang-guan" class="header-anchor">#</a></h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">移动到行首：Home</span></pre></td></tr><tr><td class="code"><pre><span class="line">移动到行尾：End</span></pre></td></tr><tr><td class="code"><pre><span class="line">移动到文件结尾：Ctrl+End</span></pre></td></tr><tr><td class="code"><pre><span class="line">移动到文件开头：Ctrl+Home</span></pre></td></tr><tr><td class="code"><pre><span class="line">移动到定义处：F12</span></pre></td></tr><tr><td class="code"><pre><span class="line">选择从光标到行首的内容：Shift+End</span></pre></td></tr><tr><td class="code"><pre><span class="line">选择从光标到行尾的内容：Shift+Home</span></pre></td></tr><tr><td class="code"><pre><span class="line">删除光标右侧的所有内容（当前行）：Ctrl+Delete</span></pre></td></tr><tr><td class="code"><pre><span class="line">扩展&#x2F;缩小选取范围：Shift+Alt+Right和Shift+ALt+Left</span></pre></td></tr><tr><td class="code"><pre><span class="line">多行编辑（列编辑）：Alt+Shift+鼠标左键或Ctrl+Alt+Down&#x2F;Up</span></pre></td></tr><tr><td class="code"><pre><span class="line">回退上一个光标操作：Ctrl+U</span></pre></td></tr><tr><td class="code"><pre><span class="line">撤销上一个光标操作：Ctrl+Z</span></pre></td></tr><tr><td class="code"><pre><span class="line">手动保存：Ctrl+S</span></pre></td></tr></table></figure>
@@ -11,13 +11,17 @@
 <h4><span id="4-cha-zhao-ti-huan">（4）查找替换</span><a href="#4-cha-zhao-ti-huan" class="header-anchor">#</a></h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">查找：Ctrl+F</span></pre></td></tr><tr><td class="code"><pre><span class="line">查找替换：Ctrl+H</span></pre></td></tr></table></figure>
 <h4><span id="5-xian-shi-xiang-guan">(5)显示相关</span><a href="#5-xian-shi-xiang-guan" class="header-anchor">#</a></h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">全屏显示（再次按则回复）：F11</span></pre></td></tr><tr><td class="code"><pre><span class="line">放大或缩小(以编辑器左上角为基准):   Ctrl +&#x2F;-</span></pre></td></tr><tr><td class="code"><pre><span class="line">侧边栏显示或隐藏： Ctrl+B</span></pre></td></tr><tr><td class="code"><pre><span class="line">显示资源管理器(光标切到侧边栏中才有效):   Ctrl+Shift+E</span></pre></td></tr><tr><td class="code"><pre><span class="line">显示搜索(光标切到侧边栏中才有效):   Ctrl+Shift+F</span></pre></td></tr><tr><td class="code"><pre><span class="line">显示(光标切到侧边栏中才有效): Ctrl+Shift+G</span></pre></td></tr><tr><td class="code"><pre><span class="line">显示 Debug:    Ctrl+Shift+D</span></pre></td></tr><tr><td class="code"><pre><span class="line">显示 Output:    Ctrl+Shift+U</span></pre></td></tr></table></figure>
 <h4><span id="6-qi-ta-she-zhi">(6)其他设置</span><a href="#6-qi-ta-she-zhi" class="header-anchor">#</a></h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">自动保存：File -&gt; AutoSave(中文界面下“文件”-&gt;“自动保存”) 或者 Ctrl+Shift+P，输入 auto</span></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>07 计算机学习</category>
+        <category>0707VScode编辑器</category>
+      </categories>
       <tags>
         <tag>vscode</tag>
         <tag>快捷键</tag>
       </tags>
   </entry>
   <entry>
-    <title>000101 测量准备工作(1)</title>
+    <title>000101 测量准备工作</title>
     <url>/zhushuwen1992.github.io/2020/01/26/000101%20%E6%B5%8B%E9%87%8F%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/</url>
     <content><![CDATA[<h2><span id="1-zi-liao-shou-ji-fang-an-bian-zhi">1 资料收集、方案编制</span><a href="#1-zi-liao-shou-ji-fang-an-bian-zhi" class="header-anchor">#</a></h2><h3><span id="1-1-zi-liao-shou-ji">1.1 资料收集</span><a href="#1-1-zi-liao-shou-ji" class="header-anchor">#</a></h3><p>  一般需要收集的资料有：<br>（1） 城市规划部门的建设用地规划审批图及说明<br>（2） 建设用地红线点测绘成果资料及测量平面控制点、高程控制点<br>&nbsp;&nbsp;&nbsp;&nbsp;实际项目中测量控制点应由甲方单位找规划局提供，必须现场通过<u><strong>正式交接</strong></u>，确认桩点完好、交接后及时进行复测。测量所依据的平面和高程控制点，是施工测量放样定位的依据，一般平面坐标点不应少于三个、高程控制点不应于两个。<br>&nbsp;&nbsp;&nbsp;&nbsp;<strong>测量控制点几何关系要求：</strong> 角度限差为±60’’，点位限差为±50mm，边长相对误差l/2500，对高程控制点按附和水准路线进行检测，允许闭合差为mm(n为测站数）。</p>
 <ol>
@@ -31,22 +35,24 @@
 <h3><span id="2-2-ce-liang-yi-qi-jian-xiao">2.2 测量仪器检校</span><a href="#2-2-ce-liang-yi-qi-jian-xiao" class="header-anchor">#</a></h3><p>&nbsp;&nbsp;&nbsp;&nbsp;建筑工程中，施工测量是一项非常重要的工作，由于测量出错造成返工，成本增加的案例比比皆是，有时候也会因为测量错误造成结构安全方面的问题。<br>&nbsp;&nbsp;&nbsp;&nbsp;施工测量前必须对仪器进行检校，并提供检测报告，作为施工总承包管理，需要求每个分包使用的仪器提供检测报告，并按要求定期校验。<em>（需了解各仪器设备校正及检验的周期。）</em></p>
 <h2><span id="3-ce-she-de-ji-ben-fang-fa">3 测设的基本方法</span><a href="#3-ce-she-de-ji-ben-fang-fa" class="header-anchor">#</a></h2>]]></content>
       <categories>
-        <category>0001 测量工程</category>
+        <category>01 工作</category>
+        <category>0103工程技术</category>
       </categories>
       <tags>
         <tag>测量</tag>
       </tags>
   </entry>
   <entry>
-    <title>第一个博客</title>
-    <url>/zhushuwen1992.github.io/2019/12/10/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2-1/</url>
-    <content><![CDATA[<p>你好，这个是我的第一个博客！</p>
+    <title>博客概述</title>
+    <url>/zhushuwen1992.github.io/2019/12/10/999901%20%E5%8D%9A%E5%AE%A2%E6%A6%82%E8%BF%B0/</url>
+    <content><![CDATA[<p><strong>酝酿很久，还是决定搭建一个博客，通过博客来记录和总结工作、学习、生活中的所见、所感、所得。</strong></p>
 ]]></content>
       <categories>
-        <category>其他</category>
+        <category>99 其他</category>
+        <category>9999 其他</category>
       </categories>
       <tags>
-        <tag>test</tag>
+        <tag>概述</tag>
       </tags>
   </entry>
 </search>
